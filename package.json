@@ -1,0 +1,22 @@
+{
+  "name": "big-2-multiplayer",
+  "version": "1.0.0",
+  "description": "big 2 multiplayer using node js websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zun69/big2Multiplayer.git"
+  },
+  "author": "Xinzun Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zun69/big2Multiplayer/issues"
+  },
+  "homepage": "https://github.com/Zun69/big2Multiplayer#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
